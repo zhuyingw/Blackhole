@@ -1,4 +1,4 @@
-# Blackhole
+# blackhole
 
 Blackhole is a mental health feature that provides the user for them to text their negative thoughts or any unwanted emotions that they are experiencing.
 Once they are done writing what they feel, they can press the ‘let it go’ button and
